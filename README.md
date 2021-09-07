@@ -1,2 +1,2 @@
 # git_TaurusGym
-A preview of Taurus Gym. Some design, some feactures, some code.
+A preview of Taurus Gym. Some design, some features, some code.
